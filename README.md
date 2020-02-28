@@ -1,2 +1,2 @@
 # sanushi
-Sanushi coding task
+Sanushi coding task.
