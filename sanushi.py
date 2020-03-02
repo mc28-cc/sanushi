@@ -129,10 +129,10 @@ if __name__ == "__main__":
                 print("Successfully created the directory %s " % currFolder)
 
     # Declare some flags here
-    FeatExON = False  # set it to True to extract for all the dataset images and save to disk.
+    FeatExON = True  # set it to True to extract for all the dataset images and save to disk.
                      # once calculated you can avoid this step if you re-run the algorithm
 
-    SomFitON = False #set it to True to fit the SOM into the dataset. The model will be saved on the disk
+    SomFitON = True #set it to True to fit the SOM into the dataset. The model will be saved on the disk
                     # once calculated you can avoid this step if you re-run the algorithm
 
     if(FeatExON):
