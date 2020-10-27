@@ -16,7 +16,7 @@ Click==7.0
 codecov==2.0.15
 colorama==0.4.3
 coverage==4.5.4
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
